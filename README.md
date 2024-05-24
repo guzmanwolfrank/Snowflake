@@ -29,7 +29,9 @@ Before running the project, ensure you have the following installed:
 
 - **transactions.db**: This SQLite database file stores transaction data locally. It is used for testing and development purposes.
 
+- **snowflake_script.py**: Main program. SQL queries used for data analysis on transactions stored in a Snowflake database.
 
+    
 ## Setup
 
 1. Clone the repository:

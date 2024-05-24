@@ -16,6 +16,19 @@ Before running the project, ensure you have the following installed:
 - `snowflake-connector-python` library
 - `pandas` library
 
+## Project Files
+
+- **README.md**: This file provides an overview of the project, including setup instructions, usage guidelines, and other relevant information.
+
+- **SnowflakeQueries.ipynb**: This Jupyter Notebook contains a collection of SQL queries used for data analysis on transactions stored in a Snowflake database.
+
+- **Transactions.csv**: This CSV file contains raw transaction data. It serves as the input for the Snowflake data analysis project.
+
+- **generator.ipynb**: This Jupyter Notebook contains the Python code used to generate fake transaction data for testing and development purposes.
+
+- **transactions.db**: This SQLite database file stores transaction data locally. It is used for testing and development purposes.
+
+
 ## Setup
 
 1. Clone the repository:

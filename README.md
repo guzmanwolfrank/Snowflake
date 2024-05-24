@@ -1,4 +1,5 @@
 # Snowflake Data Analysis Project
+![0_AmYXrtpALhMlQcZI](https://github.com/guzmanwolfrank/Snowflake-Python-SnowflakeSQL/assets/29739578/ba076e85-7870-45e3-bf57-3e826eef933d)
 
 This project is aimed at performing data analysis on transactions stored in a Snowflake database. It involves uploading transaction data from a CSV file into a Snowflake table, executing SQL queries to analyze the data, and displaying the results.
 

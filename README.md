@@ -37,7 +37,9 @@ Before running the project, ensure you have the following installed:
 
 ## Usage
 
-1. Run the `snowflake_script.py` script to upload the CSV file to a Snowflake table, execute the predefined SQL queries, and print the results:
+1. Place your CSV file containing transaction data in the project directory.
+
+2. Run the `snowflake_script.py` script to upload the CSV file to a Snowflake table, execute the predefined SQL queries, and print the results:
 
     ```bash
     python snowflake_script.py
